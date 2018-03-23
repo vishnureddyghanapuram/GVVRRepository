@@ -1,0 +1,42 @@
+ypescript Interview Questions and their answers
+ that may be asked by interviewer in your interview 1.
+ 
+What is Typescript? How is it different from javascript? 2.
+ 
+List some features of Typescript? 3.
+ 
+List some benefits of using Typescript> 4.
+ 
+Who developed Typescript and what is the current stable version of Typescript? 5.
+ 
+Tell the minimum requirements for installing Typescript. Also mention the steps involved in it. 6.
+ 
+List the built-in types in Typescript. 7.
+ 
+What are variables in Typescript? How to create a variable in Typescript? 8.
+ 
+What do you mean by interfaces? Explain them with reference to Typescript. 9.
+ 
+How to compile a Typescript file? 10.
+ 
+What do you understand by classes in Typescript? List some features of classes. 11.
+ 
+Is Native Javascript supports modules? 12.
+ 
+How to compile a Typescript file? 13.
+ 
+Explain Classes in Typescript? List some features of Classes? 14.
+ 
+What are Closures in Javascript and why are they so useful? 15.
+ 
+List types of scopes available in Javascript? 16.
+ 
+What are Modules in Typescript? 17.
+ 
+What is namespace in Typescript? How to declare a namespace in Typescript? 18.
+ 
+Explain Decorators in Typescript? List type of Decorators available in Typescript? 19.
+ 
+What are Mixins? Why we use it? 20.
+ 
+What is default visibility for properties/methods in Typescript classes? Find Answers of above questions at https://www.onlineinterviewquestions.com/typescript-interview-questions/
